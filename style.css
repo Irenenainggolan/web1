@@ -1,21 +1,17 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
   <head>
-    <!--External CSS-->
-    <Link REL="stylesheet" href="style.css" />
+  <!---External CSS-->
   <title>learning CSS</title>
   <!--Internal CSS-->
   <style>
-    /*This is a comment in css */
     body{
         background-color:yellow;
     }
   </style>
   </head>
   <body>
-    <!-- Inline style CSS-->
+    <!-- Inline CSS-->
     <h1 style="color: red; text-align: center">learning CSS is fun!</h1>
-    <h2 style="background-color: blue;">My name is Iren Nainggolan</h2>
     </body>
   </html>
- 
